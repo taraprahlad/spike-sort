@@ -76,7 +76,7 @@ Full week-by-week plan with action items: see `ROADMAP.md`.
 | 8 | Nov 28–Dec 1 | README, ≤5-min video, demo prep | Final app/code/video + demo day — Dec 1 |
 | — | Dec 3 | — | Closed, on-paper project assessment |
 
-**Current status:** _(update me)_
+**Current status:** Re-planned Nov 10, see ROADMAP.md; HH integrator in progress.
 
 ## How to work with me
 
